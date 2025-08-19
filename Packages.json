@@ -1,14 +1,14 @@
 {
   "WSA_Stock": {
     "PackageParts": [
-      "https://github.com/mastercodeon31415/WSA-Installer/raw/refs/heads/main/Installer-Data/WSA_Gapps.zip.001",
-      "https://github.com/mastercodeon31415/WSA-Installer/raw/refs/heads/main/Installer-Data/WSA_Gapps.zip.002",
-      "https://github.com/mastercodeon31415/WSA-Installer/raw/refs/heads/main/Installer-Data/WSA_Gapps.zip.003",
-      "https://github.com/mastercodeon31415/WSA-Installer/raw/refs/heads/main/Installer-Data/WSA_Gapps.zip.004",
-      "https://github.com/mastercodeon31415/WSA-Installer/raw/refs/heads/main/Installer-Data/WSA_Gapps.zip.005",
-      "https://github.com/mastercodeon31415/WSA-Installer/raw/refs/heads/main/Installer-Data/WSA_Gapps.zip.006",
-      "https://github.com/mastercodeon31415/WSA-Installer/raw/refs/heads/main/Installer-Data/WSA_Gapps.zip.007",
-      "https://github.com/mastercodeon31415/WSA-Installer/raw/refs/heads/main/Installer-Data/WSA_Gapps.zip.008"
+      "https://github.com/mastercodeon31415/WSA-Installer-Data/raw/refs/heads/main/WSA_Gapps.zip.001",
+      "https://github.com/mastercodeon31415/WSA-Installer-Data/raw/refs/heads/main/WSA_Gapps.zip.002",
+      "https://github.com/mastercodeon31415/WSA-Installer-Data/raw/refs/heads/main/WSA_Gapps.zip.003",
+      "https://github.com/mastercodeon31415/WSA-Installer-Data/raw/refs/heads/main/WSA_Gapps.zip.004",
+      "https://github.com/mastercodeon31415/WSA-Installer-Data/raw/refs/heads/main/WSA_Gapps.zip.005",
+      "https://github.com/mastercodeon31415/WSA-Installer-Data/raw/refs/heads/main/WSA_Gapps.zip.006",
+      "https://github.com/mastercodeon31415/WSA-Installer-Data/raw/refs/heads/main/WSA_Gapps.zip.007",
+      "https://github.com/mastercodeon31415/WSA-Installer-Data/raw/refs/heads/main/WSA_Gapps.zip.008"
     ],
     "PackageName": "Stock WSA + GApps",
     "FilePaths": []
@@ -17,15 +17,15 @@
     {
       "PackageApps": "RVX, RVX Music, MicroG, FX File Explorer, GApps",
       "PackageParts": [
-        "https://github.com/mastercodeon31415/WSA-Installer/raw/refs/heads/main/Installer-Data/User-Data-Packs/WSA%20UserData%20%5BRVX%20+%20YT%20+%20MicroG%20+%20FX%20File%20Explorer%20+%20GApps%5D.zip.001",
-        "https://github.com/mastercodeon31415/WSA-Installer/raw/refs/heads/main/Installer-Data/User-Data-Packs/WSA%20UserData%20%5BRVX%20+%20YT%20+%20MicroG%20+%20FX%20File%20Explorer%20+%20GApps%5D.zip.002",
-        "https://github.com/mastercodeon31415/WSA-Installer/raw/refs/heads/main/Installer-Data/User-Data-Packs/WSA%20UserData%20%5BRVX%20+%20YT%20+%20MicroG%20+%20FX%20File%20Explorer%20+%20GApps%5D.zip.003",
-        "https://github.com/mastercodeon31415/WSA-Installer/raw/refs/heads/main/Installer-Data/User-Data-Packs/WSA%20UserData%20%5BRVX%20+%20YT%20+%20MicroG%20+%20FX%20File%20Explorer%20+%20GApps%5D.zip.004",
-        "https://github.com/mastercodeon31415/WSA-Installer/raw/refs/heads/main/Installer-Data/User-Data-Packs/WSA%20UserData%20%5BRVX%20+%20YT%20+%20MicroG%20+%20FX%20File%20Explorer%20+%20GApps%5D.zip.005",
-        "https://github.com/mastercodeon31415/WSA-Installer/raw/refs/heads/main/Installer-Data/User-Data-Packs/WSA%20UserData%20%5BRVX%20+%20YT%20+%20MicroG%20+%20FX%20File%20Explorer%20+%20GApps%5D.zip.006",
-        "https://github.com/mastercodeon31415/WSA-Installer/raw/refs/heads/main/Installer-Data/User-Data-Packs/WSA%20UserData%20%5BRVX%20+%20YT%20+%20MicroG%20+%20FX%20File%20Explorer%20+%20GApps%5D.zip.007",
-        "https://github.com/mastercodeon31415/WSA-Installer/raw/refs/heads/main/Installer-Data/User-Data-Packs/WSA%20UserData%20%5BRVX%20+%20YT%20+%20MicroG%20+%20FX%20File%20Explorer%20+%20GApps%5D.zip.008",
-        "https://github.com/mastercodeon31415/WSA-Installer/raw/refs/heads/main/Installer-Data/User-Data-Packs/WSA%20UserData%20%5BRVX%20+%20YT%20+%20MicroG%20+%20FX%20File%20Explorer%20+%20GApps%5D.zip.009"
+        "https://github.com/mastercodeon31415/WSA-Installer-Data/raw/refs/heads/main/User-Data-Packs/WSA%20UserData%20%5BRVX%20+%20YT%20+%20MicroG%20+%20FX%20File%20Explorer%20+%20GApps%5D.zip.001",
+        "https://github.com/mastercodeon31415/WSA-Installer-Data/raw/refs/heads/main/User-Data-Packs/WSA%20UserData%20%5BRVX%20+%20YT%20+%20MicroG%20+%20FX%20File%20Explorer%20+%20GApps%5D.zip.002",
+        "https://github.com/mastercodeon31415/WSA-Installer-Data/raw/refs/heads/main/User-Data-Packs/WSA%20UserData%20%5BRVX%20+%20YT%20+%20MicroG%20+%20FX%20File%20Explorer%20+%20GApps%5D.zip.003",
+        "https://github.com/mastercodeon31415/WSA-Installer-Data/raw/refs/heads/main/User-Data-Packs/WSA%20UserData%20%5BRVX%20+%20YT%20+%20MicroG%20+%20FX%20File%20Explorer%20+%20GApps%5D.zip.004",
+        "https://github.com/mastercodeon31415/WSA-Installer-Data/raw/refs/heads/main/User-Data-Packs/WSA%20UserData%20%5BRVX%20+%20YT%20+%20MicroG%20+%20FX%20File%20Explorer%20+%20GApps%5D.zip.005",
+        "https://github.com/mastercodeon31415/WSA-Installer-Data/raw/refs/heads/main/User-Data-Packs/WSA%20UserData%20%5BRVX%20+%20YT%20+%20MicroG%20+%20FX%20File%20Explorer%20+%20GApps%5D.zip.006",
+        "https://github.com/mastercodeon31415/WSA-Installer-Data/raw/refs/heads/main/User-Data-Packs/WSA%20UserData%20%5BRVX%20+%20YT%20+%20MicroG%20+%20FX%20File%20Explorer%20+%20GApps%5D.zip.007",
+        "https://github.com/mastercodeon31415/WSA-Installer-Data/raw/refs/heads/main/User-Data-Packs/WSA%20UserData%20%5BRVX%20+%20YT%20+%20MicroG%20+%20FX%20File%20Explorer%20+%20GApps%5D.zip.008",
+        "https://github.com/mastercodeon31415/WSA-Installer-Data/raw/refs/heads/main/User-Data-Packs/WSA%20UserData%20%5BRVX%20+%20YT%20+%20MicroG%20+%20FX%20File%20Explorer%20+%20GApps%5D.zip.009"
       ],
       "PackageName": "Default WSA User Data Pack",
       "FilePaths": []
@@ -34,7 +34,7 @@
   "ToolsPackages": [
     {
       "PackageParts": [
-        "https://github.com/mastercodeon31415/WSA-Installer/raw/refs/heads/main/Installer-Data/Tools/Additional-Tools.zip"
+        "https://github.com/mastercodeon31415/WSA-Installer-Data/raw/refs/heads/main/Tools/Additional-Tools.zip"
       ],
       "PackageName": "Aow Tools",
       "FilePaths": []
